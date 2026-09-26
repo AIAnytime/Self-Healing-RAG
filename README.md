@@ -5,7 +5,7 @@
 ![Self-Healing RAG](https://img.shields.io/badge/RAG-Self--Healing-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![React](https://img.shields.io/badge/React-18.3-61DAFB)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
 **Advanced Retrieval-Augmented Generation with Closed-Loop Agents**
 
@@ -529,8 +529,7 @@ Contributions are welcome! Areas for improvement:
 
 ## License
 
-MIT License - see LICENSE file for details
-
+Proprietary — all rights reserved. This code is published for viewing and evaluation only; no use, copying, modification, redistribution, commercial use, or use as AI/ML training data without written permission. See [LICENSE](LICENSE). Commercial licensing: aianytime07@gmail.com · sonu@aianytime.net.
 
 ## Support
 
